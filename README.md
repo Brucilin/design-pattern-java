@@ -1,2 +1,2 @@
 # design-pattern-java
-Projeto parea estudo do padrões de projetos utilizando o livro Use a cabeça usando Java
+Projeto para estudo do padrões de projetos utilizando o livro use-a-cabeca-padroes-de-projetos com Java.
