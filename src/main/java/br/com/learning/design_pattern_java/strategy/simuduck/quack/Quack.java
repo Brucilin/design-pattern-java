@@ -1,4 +1,4 @@
-package br.com.learning.design_pattern_java.simuduck.quack;
+package br.com.learning.design_pattern_java.strategy.simuduck.quack;
 
 public class Quack implements QuackBehavior {
 

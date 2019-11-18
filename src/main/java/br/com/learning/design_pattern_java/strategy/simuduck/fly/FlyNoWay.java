@@ -1,4 +1,4 @@
-package br.com.learning.design_pattern_java.simuduck.fly;
+package br.com.learning.design_pattern_java.strategy.simuduck.fly;
 
 public class FlyNoWay implements FlyBehavior {
 	

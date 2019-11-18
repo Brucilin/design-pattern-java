@@ -1,7 +1,7 @@
-package br.com.learning.design_pattern_java.simuduck;
+package br.com.learning.design_pattern_java.strategy.simuduck.duck;
 
-import br.com.learning.design_pattern_java.simuduck.fly.FlyBehavior;
-import br.com.learning.design_pattern_java.simuduck.quack.QuackBehavior;
+import br.com.learning.design_pattern_java.strategy.simuduck.fly.FlyBehavior;
+import br.com.learning.design_pattern_java.strategy.simuduck.quack.QuackBehavior;
 
 public abstract class Duck {
 	

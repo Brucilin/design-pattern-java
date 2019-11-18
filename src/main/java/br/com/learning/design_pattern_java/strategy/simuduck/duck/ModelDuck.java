@@ -1,7 +1,7 @@
-package br.com.learning.design_pattern_java.simuduck;
+package br.com.learning.design_pattern_java.strategy.simuduck.duck;
 
-import br.com.learning.design_pattern_java.simuduck.fly.FlyNoWay;
-import br.com.learning.design_pattern_java.simuduck.quack.Quack;
+import br.com.learning.design_pattern_java.strategy.simuduck.fly.FlyNoWay;
+import br.com.learning.design_pattern_java.strategy.simuduck.quack.Quack;
 
 public class ModelDuck extends Duck{
 

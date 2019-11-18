@@ -1,11 +1,9 @@
-package br.com.learning.design_pattern_java.simuduck.simulator;
+package br.com.learning.design_pattern_java.strategy.simuduck.main;
 
-import br.com.learning.design_pattern_java.simuduck.Duck;
-import br.com.learning.design_pattern_java.simuduck.MallardDuck;
-import br.com.learning.design_pattern_java.simuduck.ModelDuck;
-import br.com.learning.design_pattern_java.simuduck.fly.FlyNoWay;
-import br.com.learning.design_pattern_java.simuduck.fly.FlyRocketPowered;
-import br.com.learning.design_pattern_java.simuduck.fly.FlyWithWings;
+import br.com.learning.design_pattern_java.strategy.simuduck.duck.Duck;
+import br.com.learning.design_pattern_java.strategy.simuduck.duck.ModelDuck;
+import br.com.learning.design_pattern_java.strategy.simuduck.fly.FlyRocketPowered;
+import br.com.learning.design_pattern_java.strategy.simuduck.fly.FlyWithWings;
 
 public class MiniDuckSimulator {
 

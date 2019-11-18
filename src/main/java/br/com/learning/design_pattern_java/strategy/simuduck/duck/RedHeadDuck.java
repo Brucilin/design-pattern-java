@@ -1,4 +1,4 @@
-package br.com.learning.design_pattern_java.simuduck;
+package br.com.learning.design_pattern_java.strategy.simuduck.duck;
 
 public class RedHeadDuck extends Duck {
 
